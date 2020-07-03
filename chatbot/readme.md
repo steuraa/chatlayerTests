@@ -1,0 +1,1 @@
+run npm install and npm start in both chatbotClient and graphqlApi folders
